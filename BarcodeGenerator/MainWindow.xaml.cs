@@ -568,19 +568,20 @@ namespace BarcodeGenerator
                 sbContent.Append(tbTargetValueC3.Text.Trim().PadLeft(ConcentrationLength, '0'));
                 sbContent.Append(tbLowerLimitC3.Text.Trim().PadLeft(ConcentrationLength, '0'));
                 sbContent.Append(tbUpperLimitC3.Text.Trim().PadLeft(ConcentrationLength, '0'));
-
                 sbContent.Append(cboProductSpecification.SelectedIndex);
                 sbContent.Append(cboCapacityOfReagent.SelectedIndex);
-                sbContent.Append(SuperEfficReserved);
+                
                 //9
-                var point = Points.LastOrDefault();
-                sbContent.Append(point.Response.Trim().PadLeft(8, '0'));
-                sbContent.Append(point.Concentration.Trim().PadLeft(ConcentrationLength, '0'));
+                //var point = Points.LastOrDefault();
+                //sbContent.Append(point.Response.Trim().PadLeft(8, '0'));
+                //sbContent.Append(point.Concentration.Trim().PadLeft(ConcentrationLength, '0'));
                 //c4
                 sbContent.Append(tbLotNoC4.Text.Trim().PadLeft(10, '0'));
 				sbContent.Append(tbTargetValueC4.Text.Trim().PadLeft(ConcentrationLength, '0'));
 				sbContent.Append(tbLowerLimitC4.Text.Trim().PadLeft(ConcentrationLength, '0'));
 				sbContent.Append(tbUpperLimitC4.Text.Trim().PadLeft(ConcentrationLength, '0'));
+
+                sbContent.Append(SuperEfficReserved);
             }
 
             var code = BarcodeEncodeDecodeHelper.EncodeIntegrationBarcode(sbContent.ToString());
@@ -600,7 +601,7 @@ namespace BarcodeGenerator
         /// <summary>
         /// 预留19位
         /// </summary>
-        private const string SuperEfficReserved = "0000000000000000000";
+        private const string SuperEfficReserved = "0000000";
 
         /// <summary>
         /// 预留13位
@@ -768,7 +769,7 @@ namespace BarcodeGenerator
 
                 int index = 22;
                 //发光值
-                for (int i = 0; i < 8; i++)
+                for (int i = 0; i < 9; i++)
                 {
                     (pSpResponse.Children[i + 1] as TextBox).Text =
                         Convert.ToInt32(barcode.Substring(index, 8)).ToString();
@@ -776,7 +777,7 @@ namespace BarcodeGenerator
                 }
 
                 //浓度
-                for (int i = 0; i < 8; i++)
+                for (int i = 0; i < 9; i++)
                 {
                     (pSpConc.Children[i + 1] as TextBox).Text =
                         GetDisplayText(barcode.Substring(index, ConcentrationLength));
@@ -832,8 +833,8 @@ namespace BarcodeGenerator
                 //if (barcode.Length == BarcodeEncodeDecodeHelper.SuperEfficBarcodeLength)
                 {
                     //_parseType = 1;
-                    spEfficModel.Visibility = Visibility.Visible;
-                    gpEfficModel.Visibility = Visibility.Visible;
+                    //spEfficModel.Visibility = Visibility.Visible;
+                    //gpEfficModel.Visibility = Visibility.Visible;
 
                     //qc3
                     ptbLotNoC3.Text = barcode.Substring(index, 10);
@@ -870,6 +871,19 @@ namespace BarcodeGenerator
                             pTbCapacityOfReagent.Text = model.Message;
                         }
                     }
+
+                    //qc4
+                    ptbLotNoC4.Text = barcode.Substring(index, 10);
+                    index += 10;
+                    ptbTargetValueC4.Text =
+                        GetDisplayText(barcode.Substring(index, ConcentrationLength));
+                    index += ConcentrationLength;
+                    ptbLowerLimitC4.Text =
+                        GetDisplayText(barcode.Substring(index, ConcentrationLength));
+                    index += ConcentrationLength;
+                    ptbUpperLimitC4.Text =
+                        GetDisplayText(barcode.Substring(index, ConcentrationLength));
+                    index += ConcentrationLength;
                 }
             }
             else
@@ -1257,8 +1271,8 @@ namespace BarcodeGenerator
                             var row = Points.IndexOf(grid.CurrentItem as CurvePointModel);
                             var col = grid.SelectedCells[0].Column.DisplayIndex;
 
-                            int rowCount = 8;
-                            if (rowDatas.Count + row <= 8)
+                            int rowCount = 9;
+                            if (rowDatas.Count + row <= rowCount)
                             {
                                 rowCount = rowDatas.Count + row;
                             }
@@ -1572,13 +1586,16 @@ namespace BarcodeGenerator
                 if (_autoGenerateComponentNo)
                 {
                     var lotNo = tb.Text.PadLeft(8, '0');
-                    txtLotNo.Text = txtReagentLotNo.Text = string.Format("00{0}", lotNo);
+                    txtLotNo.Text = string.Format("00{0}", lotNo);
                     txtCaliLotNo1.Text = string.Format("0{0}1", lotNo);
                     txtCaliLotNo2.Text = string.Format("0{0}2", lotNo);
                     tbLotNoC1.Text = string.Format("0{0}3", lotNo);
                     tbLotNoC2.Text = string.Format("0{0}4", lotNo);
                     if (!_noC3)
                         tbLotNoC3.Text = string.Format("0{0}5", lotNo);
+                    if (!_noC4)
+                        tbLotNoC4.Text = string.Format("0{0}6", lotNo);
+                    txtReagentLotNo.Text = string.Format("0{0}7", lotNo);
                 }
             }
         }

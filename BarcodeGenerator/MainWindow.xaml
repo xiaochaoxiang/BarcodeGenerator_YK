@@ -64,7 +64,7 @@
                             </WrapPanel>
                             <StackPanel Orientation="Horizontal" Grid.Row="1" Margin="0,5">
                                 <TextBlock Text="{DynamicResource LangItemNo}"></TextBlock>
-                                <TextBox x:Name="txtItemNo"/>
+                                <TextBox x:Name="txtItemNo" CharacterCasing="Upper"/>
                                 <TextBlock Text="{DynamicResource LangLotNo}"></TextBlock>
                                 <TextBox x:Name="txtLotNo" Text="0000000000" />
                                 <TextBlock Text="{DynamicResource LangExpirationDate}"></TextBlock>
@@ -367,9 +367,11 @@
                                 <TextBox></TextBox>
                                 <TextBox></TextBox>
                                 <TextBox></TextBox>
+                                <TextBox></TextBox>
                             </StackPanel>
                             <StackPanel x:Name="pSpResponse" Grid.Column="1" Margin="5,2" Grid.Row="2">
                                 <TextBlock Text="{DynamicResource LangResponse}"></TextBlock>
+                                <TextBox></TextBox>
                                 <TextBox></TextBox>
                                 <TextBox></TextBox>
                                 <TextBox></TextBox>
@@ -441,6 +443,7 @@
                                     <ColumnDefinition></ColumnDefinition>
                                     <ColumnDefinition></ColumnDefinition>
                                     <ColumnDefinition></ColumnDefinition>
+                                    <ColumnDefinition></ColumnDefinition>
                                 </Grid.ColumnDefinitions>
                                 <GroupBox Header="C1">
                                     <StackPanel>
@@ -482,7 +485,7 @@
                                         </StackPanel>
                                     </StackPanel>
                                 </GroupBox>
-                                <GroupBox Header="C3" Grid.Column="2" x:Name="gpEfficModel">
+                                <GroupBox Header="C3" Grid.Column="2">
                                     <StackPanel>
                                         <StackPanel Orientation="Horizontal">
                                             <TextBlock Text="{DynamicResource LangQcLotNo}"></TextBlock>
@@ -499,6 +502,26 @@
                                         <StackPanel Orientation="Horizontal">
                                             <TextBlock Text="{DynamicResource LangUpperLimit}"></TextBlock>
                                             <TextBox x:Name="ptbUpperLimitC3"></TextBox>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </GroupBox>
+                                <GroupBox Header="C4" Grid.Column="3">
+                                    <StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{DynamicResource LangQcLotNo}"></TextBlock>
+                                            <TextBox x:Name="ptbLotNoC4"></TextBox>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{DynamicResource LangTargetValue}"></TextBlock>
+                                            <TextBox x:Name="ptbTargetValueC4"></TextBox>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{DynamicResource LangLowerLimit}"></TextBlock>
+                                            <TextBox x:Name="ptbLowerLimitC4"></TextBox>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal">
+                                            <TextBlock Text="{DynamicResource LangUpperLimit}"></TextBlock>
+                                            <TextBox x:Name="ptbUpperLimitC4"></TextBox>
                                         </StackPanel>
                                     </StackPanel>
                                 </GroupBox>

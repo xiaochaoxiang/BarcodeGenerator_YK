@@ -11,11 +11,9 @@ namespace BarcodeGenerator.Model
         {
             StringBuilder sbCode = new StringBuilder();
             int count = code.Length / 16;
-            string leftCode = code.Substring(0, 2);
             if (isEncode)
             {
-                sbCode.Append(leftCode);
-                code = code.Substring(2).Replace('.', 'a');
+                code = code.Replace('.', 'a');
                 for (int i = 0; i < count; i++)
                 {
                     var temp = EncodeProcess(code.Substring(i * 16, 16));
@@ -24,8 +22,6 @@ namespace BarcodeGenerator.Model
             }
             else
             {
-                sbCode.Append(leftCode);
-                code = code.Substring(2);
                 for (int i = 0; i < count; i++)
                 {
                     sbCode.Append(DecodeProcess(code.Substring(i * 16, 16)));
@@ -56,7 +52,7 @@ namespace BarcodeGenerator.Model
             return EncodeProcess(code);
         }
 
-        public static int SuperEfficBarcodeLength = 386;//434
+        public static int SuperEfficBarcodeLength = 432;
 
         public static int SuperFlexBarcodeLength = 338;
     }
