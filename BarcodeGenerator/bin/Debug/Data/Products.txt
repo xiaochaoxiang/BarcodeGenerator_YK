@@ -1,0 +1,12 @@
+;格式如下，分隔符支持制表符或逗号
+;品号	品名	项目编号	包装规格代码	分装规格代码
+SY421	SuperFlex CRP	1001	1	1
+SY422	SuperFlex PCT	1002	1	1
+SY423	SuperFlex CK-MB	1102	0	0
+SY424	SuperFlex MYO	1103	0	0
+SY425	SuperFlex cTnI	1101	0	0
+SY426	SuperFlex NT-proBNP	1104	0	0
+SY501	SuperEffic CRP	2001	1	1
+SY502	PCT	2002	1	1
+SY503	心肌肌钙蛋白I检测试剂盒（化学发光法）	2101	2	2
+SY504	SuperEffic MYO	2102	2	1

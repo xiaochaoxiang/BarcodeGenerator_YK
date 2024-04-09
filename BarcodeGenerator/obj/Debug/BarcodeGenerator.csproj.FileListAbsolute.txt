@@ -1,0 +1,234 @@
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\NPOI.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\zxing.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\Language\English.baml
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\App.baml
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\App.g.cs
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\SuperFlex\StbsBarcode\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\NPOI.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\zxing.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\Language\English.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\App.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\App.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\StbsBarcode\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\NPOI.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\zxing.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\Language\English.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\App.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\App.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\IntegratedTwoDimensionalCodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\NPOI.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\zxing.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\Language\English.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\App.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\App.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\NPOI.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\zxing.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\Language\English.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\App.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\App.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\Utilities\Barcode\BarcodeGenerator - YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeProcessing.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\DataMatrix.net.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\ErrorHandler.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OOXML.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\zxing.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\Language\Chinese.baml
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\Language\English.baml
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.baml
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\App.baml
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\MainWindow.g.cs
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.g.cs
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\App.g.cs
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\MainWindow.baml
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.g.resources
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\License.dll
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_Content.g.cs
+C:\WORK\GitHub\RandomAccess\Tools\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe.config
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.exe
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeGenerator.pdb
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\BarcodeProcessing.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\DataMatrix.net.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\ErrorHandler.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\License.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OOXML.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\zxing.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\bin\Debug\zxing.presentation.dll
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.AssemblyReference.cache
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\Language\Chinese.baml
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\Language\English.baml
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.baml
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\App.baml
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\MainWindow.g.cs
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\ShowConcentrationFormat.g.cs
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\App.g.cs
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_Content.g.cs
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.cache
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator_MarkupCompile.lref
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\MainWindow.baml
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.g.resources
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.Properties.Resources.resources
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.GenerateResource.cache
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CoreCompileInputs.cache
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.csproj.CopyComplete
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.exe
+C:\Project\BarcodeGenerator_YK\BarcodeGenerator\obj\Debug\BarcodeGenerator.pdb

@@ -1,0 +1,114 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+
+    <system:String x:Key="LangTitle">Barcode generator(SP)</system:String>
+    <system:String x:Key="LangIntegratedBarcode">Integrated barcode</system:String>
+    <system:String x:Key="LangItemInfo">Item information</system:String>
+    <system:String x:Key="LangItemNo">Item No.:</system:String>
+    <system:String x:Key="LangLotNo">Lot No.:</system:String>
+    <system:String x:Key="LangExpirationDate">Expiration date:</system:String>
+    <system:String x:Key="LangStandardCurve">Standard curve</system:String>
+    <system:String x:Key="LangCurveNo">Calibrator lot No.:</system:String>
+    <system:String x:Key="LangConcentration">Concentration:</system:String>
+    <system:String x:Key="LangResponse">Response:</system:String>
+    <system:String x:Key="LangCalibration">Calibrator</system:String>
+    <system:String x:Key="LangConcentrationS1">Concentration S1:</system:String>
+    <system:String x:Key="LangLotNoS1">Lot No.:</system:String>
+    <system:String x:Key="LangReagentStrip">Reagent</system:String>
+    <system:String x:Key="LangReagentLotNo">Lot No.：</system:String>
+    <system:String x:Key="LangSave2DBarcode">Save 2D barcode</system:String>
+    <system:String x:Key="LangHeight">Height:</system:String>
+    <system:String x:Key="LangWhiteSpace">White space:</system:String>
+    <system:String x:Key="LangSize">Size:</system:String>
+    <system:String x:Key="LangSave">Save picture</system:String>
+
+    <system:String x:Key="LangIntegratedBarcodeAnalysis">Integrated barcode analysis</system:String>
+    <system:String x:Key="LangInputBarcode">Input barcode:</system:String>
+    <system:String x:Key="LangParseLeftText">Parse left text</system:String>
+    <system:String x:Key="LangChoosePNGToParse">Choose picture</system:String>
+    <system:String x:Key="LangClear">Clear</system:String>
+    <system:String x:Key="LangGenerate">Generate</system:String>
+    <system:String x:Key="LangClose">Close</system:String>
+
+    <system:String x:Key="LangErrorItemNoLength">The item number is wrong. The length must be 4.</system:String>
+    <system:String x:Key="LangErrorItemNo">Item number input is not in accordance with the rules.(the 1st, 3rd, 4th digit is a number, the 2nd digit can be a number or a letter)</system:String>
+    <system:String x:Key="LangErrorLotNo">The lot No. in the item information is wrong.</system:String>
+    <system:String x:Key="LangErrorResponse">Error response at {0}.</system:String>
+    <system:String x:Key="LangErrorConcentration">Error concentration at {0}.</system:String>
+    <system:String x:Key="LangErrorLotNoS1">Error lot No. of calibrator s1.</system:String>
+    <system:String x:Key="LangErrorLotNoS2">Error lot No. of calibrator s2.</system:String>
+    <system:String x:Key="LangErrorConcS1">Error concentration of calibrator s1.</system:String>
+    <system:String x:Key="LangErrorConcS2">Error concentration of calibrator s2.</system:String>
+    <system:String x:Key="LangErrorReagentLotNo">Error reagent lot No.</system:String>
+    <system:String x:Key="LangErrorExpirationDate">Error expiration date,should be greater than today.</system:String>
+    <system:String x:Key="LangBarcodeGenerateSuccess">Barcode generated successfully</system:String>
+    <system:String x:Key="LangErrorBarcodeParse">Error parsing barcode</system:String>
+    <system:String x:Key="LangSaveSuccess">Save success</system:String>
+
+    <system:String x:Key="LangQc">Quality control</system:String>
+    <system:String x:Key="LangQcLotNo">Lot No.:</system:String>
+    <system:String x:Key="LangTargetValue">Target value:</system:String>
+    <system:String x:Key="LangUpperLimit">Upper limit:</system:String>
+    <system:String x:Key="LangLowerLimit">Lower limit</system:String>
+    <system:String x:Key="LangErrorLotNoC1">Error lot No. of quality control c1.</system:String>
+    <system:String x:Key="LangErrorLotNoC2">Error lot No. of quality control c2.</system:String>
+    <system:String x:Key="LangErrorTargetValueC1">Error target value of quality control c1.</system:String>
+    <system:String x:Key="LangErrorTargetValueC2">Error target value of quality control c2.</system:String>
+    <system:String x:Key="LangErrorLowerLimitC1">Error lower limit of quality control c1.</system:String>
+    <system:String x:Key="LangErrorLowerLimitC2">Error lower limit of quality control c2.</system:String>
+    <system:String x:Key="LangErrorUpperLimitC1">Error upper limit of quality control c1.</system:String>
+    <system:String x:Key="LangErrorUpperLimitC2">Error upper limit of quality control c2.</system:String>
+    <system:String x:Key="LangUncertain">Uncertain:</system:String>
+    <system:String x:Key="LangErrorUncertain1">Error uncertain of calibrator s1.</system:String>
+    <system:String x:Key="LangErrorUncertain2">Error uncertain of calibrator s2.</system:String>
+
+    <system:String x:Key="LangReagentBarcode">Reagent barcode</system:String>
+    <system:String x:Key="LangReagentLotNo1">Lot No.(10)</system:String>
+    <system:String x:Key="LangStartIndex">Start index(1-999999)：</system:String>
+    <system:String x:Key="LangNum">Count(1-999999)：</system:String>
+    <system:String x:Key="LangErrorReagentLotNo1">Error reagent Lot No.</system:String>
+    <system:String x:Key="LangErrorStartIndex">Error start index.</system:String>
+    <system:String x:Key="LangErrorNum">Error count of barcode.</system:String>
+    <system:String x:Key="LangErrorTotal">The last index(start index+count) is greater than 1000000.</system:String>
+
+    <system:String x:Key="LangParse">Parse</system:String>
+    <system:String x:Key="LangSerialNo">Serial No.(6)</system:String>
+    <system:String x:Key="LangReagentBarcodeAnalysis">Analysis</system:String>
+
+    <system:String x:Key="LangErrorCurveNo">Please select calibrator lot No.</system:String>
+    <system:String x:Key="LangErrorExpirationDateNull">Please select expiration date</system:String>
+
+    <system:String x:Key="LangExport">Export</system:String>
+    <system:String x:Key="LangExportSuccess">Export success</system:String>
+    <system:String x:Key="LangSetting">Json setting</system:String>
+    <system:String x:Key="LangChoosePath">Choose path of json files</system:String>
+
+    <system:String x:Key="LangVersion">Calibrator version:</system:String>
+    <system:String x:Key="LangGeneratingBarcode">Generating barcode</system:String>
+    <system:String x:Key="LangExporting">Writing file</system:String>
+    <system:String x:Key="LangErrorVersion">Error version(one character,[A-F] or [0-9])</system:String>
+
+    <system:String x:Key="LangProductSpecification">Product specification</system:String>
+    <system:String x:Key="LangCapacityOfReagent">Capacity of reagent</system:String>
+    <system:String x:Key="LangProductNo">Product number：</system:String>
+    <system:String x:Key="LangSerialNoEffic">Serial No.(4):</system:String>
+    <system:String x:Key="LangStartIndexEffic">Start index(1-9999):</system:String>
+    <system:String x:Key="LangNumEffic">Count(1-9999):</system:String>
+    <system:String x:Key="LangErrorTotalEffic">The last index(start index+count) is greater than 10000.</system:String>
+    <system:String x:Key="LangErrorReagentGenerateItemNo">The item number is wrong.</system:String>
+    <system:String x:Key="LangItemNoReagent">Item No.(4):</system:String>
+    <system:String x:Key="LangProductName">Product name:</system:String>
+    <system:String x:Key="LangErrorLotNoC3">Error lot No. of quality control c3.</system:String>
+    <system:String x:Key="LangErrorTargetValueC3">Error target value of quality control c3.</system:String>
+    <system:String x:Key="LangErrorLowerLimitC3">Error lower limit of quality control c3.</system:String>
+    <system:String x:Key="LangErrorUpperLimitC3">Error upper limit of quality control c3.</system:String>
+    <system:String x:Key="LangAutoGenerateLotNo">Automatically generate component batch numbers</system:String>
+    <system:String x:Key="LangLotNoTotal">Batch number: (8 digits)</system:String>
+    <system:String x:Key="LangErrorProductSpecification">Finished product specification input error, please re-enter</system:String>
+    <system:String x:Key="LangErrorCapacityOfReagent">Reagent loading input error, please re-enter</system:String>
+    <system:String x:Key="LangAbout">About</system:String>
+    <system:String x:Key="LangAppVersion">App version: </system:String>
+    <system:String x:Key="LangLeftDays">Remaining days: </system:String>
+    <system:String x:Key="LangNoC3">This product has no C3</system:String>
+</ResourceDictionary>
